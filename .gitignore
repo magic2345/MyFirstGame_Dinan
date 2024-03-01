@@ -1,0 +1,12 @@
+
+Saved/*
+
+Intermediate/*
+
+Plugins/*/Intermediate/*
+
+DerivedDataCache/*
+
+.vsconfig 
+
+*.sln
